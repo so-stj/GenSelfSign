@@ -2,6 +2,10 @@
 
 A PowerShell script for generating self-signed certificates and applying code signing to scripts or executables.
 
+##Language##
+
+For Japanese README is [here](https://github.com/so-stj/GenSelfSign/blob/main/README_JP.md)
+
 ## Description
 
 This script creates a self-signed code signing certificate and applies it to a specified file or directory. It's useful for development and testing scenarios where you need to sign PowerShell scripts or other executables with a trusted certificate.
