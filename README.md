@@ -96,14 +96,6 @@ To verify the signature was applied successfully:
 Get-AuthenticodeSignature "path\to\your\file"
 ```
 
-## License
-
-This script is provided as-is for educational and development purposes.
-
-## Contributing
-
-Feel free to submit issues or pull requests to improve this script.
-
 ## Version
 
 Current version: 1.0
