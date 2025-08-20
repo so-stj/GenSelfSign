@@ -2,7 +2,7 @@
 
 A PowerShell script for generating self-signed certificates and applying code signing to scripts or executables.
 
-##Language##
+##Language
 
 For Japanese README is [here](https://github.com/so-stj/GenSelfSign/blob/main/README_JP.md)
 
