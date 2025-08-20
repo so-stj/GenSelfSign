@@ -95,7 +95,3 @@ To verify the signature was applied successfully:
 ```powershell
 Get-AuthenticodeSignature "path\to\your\file"
 ```
-
-## Version
-
-Current version: 1.0
