@@ -91,7 +91,3 @@
 ```powershell
 Get-AuthenticodeSignature "path\to\your\file"
 ```
-
-## バージョン
-
-現在のバージョン: 1.0
